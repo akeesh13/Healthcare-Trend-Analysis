@@ -1,0 +1,252 @@
+Country,Keyword,Score
+Angola,cholera,1.0
+Argentina,western,0.4472135954999579
+Argentina,equine,0.4472135954999579
+Argentina,encephalitis,0.4472135954999579
+Argentina,western equine,0.4472135954999579
+Argentina,equine encephalitis,0.4472135954999579
+Australia,avian,0.5773502691896258
+Australia,influenza,0.5773502691896258
+Australia,avian influenza,0.5773502691896258
+Bangladesh,dengue,1.0
+Bangladesh,nipah,0.447213595499958
+Bangladesh,virus,0.447213595499958
+Bangladesh,infection,0.447213595499958
+Bangladesh,nipah virus,0.447213595499958
+Bangladesh,virus infection,0.447213595499958
+Barbados,west,0.4472135954999579
+Barbados,nile,0.4472135954999579
+Barbados,virus,0.4472135954999579
+Barbados,west nile,0.4472135954999579
+Barbados,nile virus,0.4472135954999579
+Brazil,influenza,0.4472135954999579
+Brazil,variant,0.4472135954999579
+Brazil,virus,0.4472135954999579
+Brazil,influenza variant,0.4472135954999579
+Brazil,variant virus,0.4472135954999579
+Cambodia,avian,1.7320508075688776
+Cambodia,influenza,1.7320508075688776
+Cambodia,avian influenza,1.7320508075688776
+Chad,hepatitis,1.0
+Chad,dengue,1.0
+Chile,measle,1.0
+China,influenza,0.6666666666666666
+China,avian,0.3333333333333333
+China,coinfection,0.3333333333333333
+China,avian influenza,0.3333333333333333
+China,influenza influenza,0.3333333333333333
+China,influenza coinfection,0.3333333333333333
+Congo,suspect,0.2773500981126146
+Congo,triple,0.2773500981126146
+Congo,outbreak,0.2773500981126146
+Congo,typhoid,0.2773500981126146
+Congo,fever,0.2773500981126146
+Congo,shigellosis,0.2773500981126146
+Congo,cholera,0.2773500981126146
+Congo,suspect triple,0.2773500981126146
+Congo,triple outbreak,0.2773500981126146
+Congo,outbreak typhoid,0.2773500981126146
+Congo,typhoid fever,0.2773500981126146
+Congo,fever shigellosis,0.2773500981126146
+Congo,shigellosis cholera,0.2773500981126146
+Cuba,oropouche,0.4472135954999579
+Cuba,virus,0.4472135954999579
+Cuba,disease,0.4472135954999579
+Cuba,oropouche virus,0.4472135954999579
+Cuba,virus disease,0.4472135954999579
+Democratic Republic of the Congo,mpox,1.4869342640735226
+Democratic Republic of the Congo,undiagnosed,0.7890871360845267
+Democratic Republic of the Congo,disease,0.7890871360845267
+Democratic Republic of the Congo,undiagnosed disease,0.7890871360845267
+Democratic Republic of the Congo,monkeypox,0.6176143709756019
+Democratic Republic of the Congo,mpox monkeypox,0.6176143709756019
+Democratic Republic of the Congo,acute,0.26856136753583165
+Democratic Republic of the Congo,respiratory,0.26856136753583165
+Democratic Republic of the Congo,infection,0.26856136753583165
+Democratic Republic of the Congo,complicate,0.26856136753583165
+Democratic Republic of the Congo,malaria,0.26856136753583165
+Democratic Republic of the Congo,previously,0.26856136753583165
+Democratic Republic of the Congo,acute respiratory,0.26856136753583165
+Democratic Republic of the Congo,respiratory infection,0.26856136753583165
+Democratic Republic of the Congo,infection complicate,0.26856136753583165
+Democratic Republic of the Congo,complicate malaria,0.26856136753583165
+Democratic Republic of the Congo,malaria previously,0.26856136753583165
+Democratic Republic of the Congo,previously undiagnosed,0.26856136753583165
+Ethiopia,malaria,1.0
+France,botulism,1.0
+Ghana,avian,0.5773502691896258
+Ghana,influenza,0.5773502691896258
+Ghana,avian influenza,0.5773502691896258
+Global situation,dengue,2.0
+Global situation,antimicrobial,0.33333333333333337
+Global situation,resistance,0.33333333333333337
+Global situation,hypervirulent,0.33333333333333337
+Global situation,klebsiella,0.33333333333333337
+Global situation,pneumoniae,0.33333333333333337
+Global situation,antimicrobial resistance,0.33333333333333337
+Global situation,resistance hypervirulent,0.33333333333333337
+Global situation,hypervirulent klebsiella,0.33333333333333337
+Global situation,klebsiella pneumoniae,0.33333333333333337
+Guinea,diphtheria,1.0
+India,virus,0.828203863821948
+India,avian,0.5773502691896257
+India,influenza,0.5773502691896257
+India,avian influenza,0.5773502691896257
+India,zika,0.4763303524167569
+India,disease,0.4763303524167569
+India,zika virus,0.4763303524167569
+India,virus disease,0.4763303524167569
+India,nipah,0.4763303524167569
+India,infection,0.4763303524167569
+India,nipah virus,0.4763303524167569
+India,virus infection,0.4763303524167569
+India,acute,0.3448806889294031
+India,encephalitis,0.3448806889294031
+India,syndrome,0.3448806889294031
+India,chandipura,0.3448806889294031
+India,acute encephalitis,0.3448806889294031
+India,encephalitis syndrome,0.3448806889294031
+India,syndrome chandipura,0.3448806889294031
+India,chandipura virus,0.3448806889294031
+Indonesia,circulate,0.3333333333333333
+Indonesia,vaccine,0.3333333333333333
+Indonesia,derive,0.3333333333333333
+Indonesia,poliovirus,0.3333333333333333
+Indonesia,type,0.3333333333333333
+Indonesia,circulate vaccine,0.3333333333333333
+Indonesia,vaccine derive,0.3333333333333333
+Indonesia,derive poliovirus,0.3333333333333333
+Indonesia,poliovirus type,0.3333333333333333
+Iran (Islamic Republic of),dengue,1.0
+Kenya,circulate,0.3333333333333333
+Kenya,vaccine,0.3333333333333333
+Kenya,derive,0.3333333333333333
+Kenya,poliovirus,0.3333333333333333
+Kenya,type,0.3333333333333333
+Kenya,circulate vaccine,0.3333333333333333
+Kenya,vaccine derive,0.3333333333333333
+Kenya,derive poliovirus,0.3333333333333333
+Kenya,poliovirus type,0.3333333333333333
+Kingdom of Saudi Arabia,middle,1.0
+Kingdom of Saudi Arabia,east,1.0
+Kingdom of Saudi Arabia,respiratory,1.0
+Kingdom of Saudi Arabia,syndrome,1.0
+Kingdom of Saudi Arabia,coronavirus,1.0
+Kingdom of Saudi Arabia,middle east,1.0
+Kingdom of Saudi Arabia,east respiratory,1.0
+Kingdom of Saudi Arabia,respiratory syndrome,1.0
+Kingdom of Saudi Arabia,syndrome coronavirus,1.0
+Kingdom of Saudi Arabia,invasive,0.4472135954999579
+Kingdom of Saudi Arabia,meningococcal,0.4472135954999579
+Kingdom of Saudi Arabia,disease,0.4472135954999579
+Kingdom of Saudi Arabia,invasive meningococcal,0.4472135954999579
+Kingdom of Saudi Arabia,meningococcal disease,0.4472135954999579
+Mexico,avian,1.7320508075688776
+Mexico,influenza,1.7320508075688776
+Mexico,avian influenza,1.7320508075688776
+Nigeria,diphtheria,1.0
+Peru,guillain,0.4472135954999579
+Peru,barré,0.4472135954999579
+Peru,syndrome,0.4472135954999579
+Peru,guillain barré,0.4472135954999579
+Peru,barré syndrome,0.4472135954999579
+Poland,legionellosis,1.0
+Region of the Americas,oropouche,0.8944271909999159
+Region of the Americas,virus,0.8944271909999159
+Region of the Americas,disease,0.8944271909999159
+Region of the Americas,oropouche virus,0.8944271909999159
+Region of the Americas,virus disease,0.8944271909999159
+Rwanda,marburg,3.1304951684997055
+Rwanda,virus,3.1304951684997055
+Rwanda,disease,3.1304951684997055
+Rwanda,marburg virus,3.1304951684997055
+Rwanda,virus disease,3.1304951684997055
+Saudi Arabia,middle,0.3333333333333333
+Saudi Arabia,east,0.3333333333333333
+Saudi Arabia,respiratory,0.3333333333333333
+Saudi Arabia,syndrome,0.3333333333333333
+Saudi Arabia,coronavirus,0.3333333333333333
+Saudi Arabia,middle east,0.3333333333333333
+Saudi Arabia,east respiratory,0.3333333333333333
+Saudi Arabia,respiratory syndrome,0.3333333333333333
+Saudi Arabia,syndrome coronavirus,0.3333333333333333
+South Africa,mpox,1.0
+Spain,influenza,0.4472135954999579
+Spain,variant,0.4472135954999579
+Spain,virus,0.4472135954999579
+Spain,influenza variant,0.4472135954999579
+Spain,variant virus,0.4472135954999579
+Sweden,mpox,1.0
+Timor-Leste,rabie,1.0
+Uganda,sudan,1.3416407864998738
+Uganda,virus,1.3416407864998738
+Uganda,disease,1.3416407864998738
+Uganda,sudan virus,1.3416407864998738
+Uganda,virus disease,1.3416407864998738
+United Kingdom of Great Britain and Northern Ireland,influenza,0.3779644730092272
+United Kingdom of Great Britain and Northern Ireland,variant,0.3779644730092272
+United Kingdom of Great Britain and Northern Ireland,virus,0.3779644730092272
+United Kingdom of Great Britain and Northern Ireland,infection,0.3779644730092272
+United Kingdom of Great Britain and Northern Ireland,influenza variant,0.3779644730092272
+United Kingdom of Great Britain and Northern Ireland,variant virus,0.3779644730092272
+United Kingdom of Great Britain and Northern Ireland,virus infection,0.3779644730092272
+United Republic of Tanzania,outbreak,0.33333333333333337
+United Republic of Tanzania,suspect,0.33333333333333337
+United Republic of Tanzania,marburg,0.33333333333333337
+United Republic of Tanzania,virus,0.33333333333333337
+United Republic of Tanzania,disease,0.33333333333333337
+United Republic of Tanzania,outbreak suspect,0.33333333333333337
+United Republic of Tanzania,suspect marburg,0.33333333333333337
+United Republic of Tanzania,marburg virus,0.33333333333333337
+United Republic of Tanzania,virus disease,0.33333333333333337
+United Republic of Tanzania,circulate,0.33333333333333337
+United Republic of Tanzania,vaccine,0.33333333333333337
+United Republic of Tanzania,derive,0.33333333333333337
+United Republic of Tanzania,poliovirus,0.33333333333333337
+United Republic of Tanzania,type,0.33333333333333337
+United Republic of Tanzania,circulate vaccine,0.33333333333333337
+United Republic of Tanzania,vaccine derive,0.33333333333333337
+United Republic of Tanzania,derive poliovirus,0.33333333333333337
+United Republic of Tanzania,poliovirus type,0.33333333333333337
+United States of America,measle,1.0
+United States of America,avian,0.5773502691896257
+United States of America,influenza,0.5773502691896257
+United States of America,avian influenza,0.5773502691896257
+Uruguay,western,0.4472135954999579
+Uruguay,equine,0.4472135954999579
+Uruguay,encephalitis,0.4472135954999579
+Uruguay,western equine,0.4472135954999579
+Uruguay,equine encephalitis,0.4472135954999579
+Viet Nam,avian,1.8365159277266978
+Viet Nam,avian influenza,1.8365159277266978
+Viet Nam,influenza,1.7539403698578075
+Viet Nam,variant,0.4838025881780501
+Viet Nam,virus,0.4838025881780501
+Viet Nam,influenza variant,0.4838025881780501
+Viet Nam,variant virus,0.4838025881780501
+Zambia,anthrax,1.0
+the Netherlands,influenza,0.4472135954999579
+the Netherlands,variant,0.4472135954999579
+the Netherlands,virus,0.4472135954999579
+the Netherlands,influenza variant,0.4472135954999579
+the Netherlands,variant virus,0.4472135954999579
+unknown,respiratory,2.1565240184144265
+unknown,region,2.0561612563537865
+unknown,northern,1.3150627005017594
+unknown,virus,1.254617670394362
+unknown,united,1.254617670394362
+unknown,african,1.200942005381024
+unknown,african region,1.200942005381024
+unknown,republic,0.945636112637865
+unknown,china,0.6599978831063311
+unknown,marburg,0.6225648037149029
+unknown,disease,0.6225648037149029
+unknown,tanzania,0.6225648037149029
+unknown,marburg virus,0.6225648037149029
+unknown,virus disease,0.6225648037149029
+unknown,disease united,0.6225648037149029
+unknown,united republic,0.6225648037149029
+unknown,republic tanzania,0.6225648037149029
+unknown,cluster,0.5296213447576713
+unknown,community,0.5296213447576713
+unknown,cluster community,0.5296213447576713

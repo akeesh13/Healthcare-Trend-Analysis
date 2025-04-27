@@ -1,0 +1,252 @@
+Country,Keyword,Count
+Angola,cholera,1
+Argentina,western,1
+Argentina,equine,1
+Argentina,encephalitis,1
+Argentina,western equine,1
+Argentina,equine encephalitis,1
+Australia,avian,1
+Australia,influenza,1
+Australia,avian influenza,1
+Bangladesh,nipah,1
+Bangladesh,virus,1
+Bangladesh,infection,1
+Bangladesh,nipah virus,1
+Bangladesh,virus infection,1
+Bangladesh,dengue,1
+Barbados,west,1
+Barbados,nile,1
+Barbados,virus,1
+Barbados,west nile,1
+Barbados,nile virus,1
+Brazil,influenza,1
+Brazil,variant,1
+Brazil,virus,1
+Brazil,influenza variant,1
+Brazil,variant virus,1
+Cambodia,avian,3
+Cambodia,influenza,3
+Cambodia,avian influenza,3
+Chad,hepatitis,1
+Chad,dengue,1
+Chile,measle,1
+China,influenza,2
+China,avian,1
+China,coinfection,1
+China,avian influenza,1
+China,influenza influenza,1
+China,influenza coinfection,1
+Congo,suspect,1
+Congo,triple,1
+Congo,outbreak,1
+Congo,typhoid,1
+Congo,fever,1
+Congo,shigellosis,1
+Congo,cholera,1
+Congo,suspect triple,1
+Congo,triple outbreak,1
+Congo,outbreak typhoid,1
+Congo,typhoid fever,1
+Congo,fever shigellosis,1
+Congo,shigellosis cholera,1
+Cuba,oropouche,1
+Cuba,virus,1
+Cuba,disease,1
+Cuba,oropouche virus,1
+Cuba,virus disease,1
+Democratic Republic of the Congo,undiagnosed,2
+Democratic Republic of the Congo,disease,2
+Democratic Republic of the Congo,undiagnosed disease,2
+Democratic Republic of the Congo,mpox,2
+Democratic Republic of the Congo,acute,1
+Democratic Republic of the Congo,respiratory,1
+Democratic Republic of the Congo,infection,1
+Democratic Republic of the Congo,complicate,1
+Democratic Republic of the Congo,malaria,1
+Democratic Republic of the Congo,previously,1
+Democratic Republic of the Congo,acute respiratory,1
+Democratic Republic of the Congo,respiratory infection,1
+Democratic Republic of the Congo,infection complicate,1
+Democratic Republic of the Congo,complicate malaria,1
+Democratic Republic of the Congo,malaria previously,1
+Democratic Republic of the Congo,previously undiagnosed,1
+Democratic Republic of the Congo,monkeypox,1
+Democratic Republic of the Congo,mpox monkeypox,1
+Ethiopia,malaria,1
+France,botulism,1
+Ghana,avian,1
+Ghana,influenza,1
+Ghana,avian influenza,1
+Global situation,dengue,2
+Global situation,antimicrobial,1
+Global situation,resistance,1
+Global situation,hypervirulent,1
+Global situation,klebsiella,1
+Global situation,pneumoniae,1
+Global situation,antimicrobial resistance,1
+Global situation,resistance hypervirulent,1
+Global situation,hypervirulent klebsiella,1
+Global situation,klebsiella pneumoniae,1
+Guinea,diphtheria,1
+India,virus,3
+India,zika,1
+India,disease,1
+India,zika virus,1
+India,virus disease,1
+India,acute,1
+India,encephalitis,1
+India,syndrome,1
+India,chandipura,1
+India,acute encephalitis,1
+India,encephalitis syndrome,1
+India,syndrome chandipura,1
+India,chandipura virus,1
+India,avian,1
+India,influenza,1
+India,avian influenza,1
+India,nipah,1
+India,infection,1
+India,nipah virus,1
+India,virus infection,1
+Indonesia,circulate,1
+Indonesia,vaccine,1
+Indonesia,derive,1
+Indonesia,poliovirus,1
+Indonesia,type,1
+Indonesia,circulate vaccine,1
+Indonesia,vaccine derive,1
+Indonesia,derive poliovirus,1
+Indonesia,poliovirus type,1
+Iran (Islamic Republic of),dengue,1
+Kenya,circulate,1
+Kenya,vaccine,1
+Kenya,derive,1
+Kenya,poliovirus,1
+Kenya,type,1
+Kenya,circulate vaccine,1
+Kenya,vaccine derive,1
+Kenya,derive poliovirus,1
+Kenya,poliovirus type,1
+Kingdom of Saudi Arabia,middle,3
+Kingdom of Saudi Arabia,east,3
+Kingdom of Saudi Arabia,respiratory,3
+Kingdom of Saudi Arabia,syndrome,3
+Kingdom of Saudi Arabia,coronavirus,3
+Kingdom of Saudi Arabia,middle east,3
+Kingdom of Saudi Arabia,east respiratory,3
+Kingdom of Saudi Arabia,respiratory syndrome,3
+Kingdom of Saudi Arabia,syndrome coronavirus,3
+Kingdom of Saudi Arabia,invasive,1
+Kingdom of Saudi Arabia,meningococcal,1
+Kingdom of Saudi Arabia,disease,1
+Kingdom of Saudi Arabia,invasive meningococcal,1
+Kingdom of Saudi Arabia,meningococcal disease,1
+Mexico,avian,3
+Mexico,influenza,3
+Mexico,avian influenza,3
+Nigeria,diphtheria,1
+Peru,guillain,1
+Peru,barré,1
+Peru,syndrome,1
+Peru,guillain barré,1
+Peru,barré syndrome,1
+Poland,legionellosis,1
+Region of the Americas,oropouche,2
+Region of the Americas,virus,2
+Region of the Americas,disease,2
+Region of the Americas,oropouche virus,2
+Region of the Americas,virus disease,2
+Rwanda,marburg,7
+Rwanda,virus,7
+Rwanda,disease,7
+Rwanda,marburg virus,7
+Rwanda,virus disease,7
+Saudi Arabia,middle,1
+Saudi Arabia,east,1
+Saudi Arabia,respiratory,1
+Saudi Arabia,syndrome,1
+Saudi Arabia,coronavirus,1
+Saudi Arabia,middle east,1
+Saudi Arabia,east respiratory,1
+Saudi Arabia,respiratory syndrome,1
+Saudi Arabia,syndrome coronavirus,1
+South Africa,mpox,1
+Spain,influenza,1
+Spain,variant,1
+Spain,virus,1
+Spain,influenza variant,1
+Spain,variant virus,1
+Sweden,mpox,1
+Timor-Leste,rabie,1
+Uganda,sudan,3
+Uganda,virus,3
+Uganda,disease,3
+Uganda,sudan virus,3
+Uganda,virus disease,3
+United Kingdom of Great Britain and Northern Ireland,influenza,1
+United Kingdom of Great Britain and Northern Ireland,variant,1
+United Kingdom of Great Britain and Northern Ireland,virus,1
+United Kingdom of Great Britain and Northern Ireland,infection,1
+United Kingdom of Great Britain and Northern Ireland,influenza variant,1
+United Kingdom of Great Britain and Northern Ireland,variant virus,1
+United Kingdom of Great Britain and Northern Ireland,virus infection,1
+United Republic of Tanzania,outbreak,1
+United Republic of Tanzania,suspect,1
+United Republic of Tanzania,marburg,1
+United Republic of Tanzania,virus,1
+United Republic of Tanzania,disease,1
+United Republic of Tanzania,outbreak suspect,1
+United Republic of Tanzania,suspect marburg,1
+United Republic of Tanzania,marburg virus,1
+United Republic of Tanzania,virus disease,1
+United Republic of Tanzania,circulate,1
+United Republic of Tanzania,vaccine,1
+United Republic of Tanzania,derive,1
+United Republic of Tanzania,poliovirus,1
+United Republic of Tanzania,type,1
+United Republic of Tanzania,circulate vaccine,1
+United Republic of Tanzania,vaccine derive,1
+United Republic of Tanzania,derive poliovirus,1
+United Republic of Tanzania,poliovirus type,1
+United States of America,measle,1
+United States of America,avian,1
+United States of America,influenza,1
+United States of America,avian influenza,1
+Uruguay,western,1
+Uruguay,equine,1
+Uruguay,encephalitis,1
+Uruguay,western equine,1
+Uruguay,equine encephalitis,1
+Viet Nam,influenza,4
+Viet Nam,avian,3
+Viet Nam,avian influenza,3
+Viet Nam,variant,1
+Viet Nam,virus,1
+Viet Nam,influenza variant,1
+Viet Nam,variant virus,1
+Zambia,anthrax,1
+the Netherlands,influenza,1
+the Netherlands,variant,1
+the Netherlands,virus,1
+the Netherlands,influenza variant,1
+the Netherlands,variant virus,1
+unknown,virus,3
+unknown,united,3
+unknown,republic,3
+unknown,respiratory,3
+unknown,region,3
+unknown,marburg,2
+unknown,disease,2
+unknown,tanzania,2
+unknown,marburg virus,2
+unknown,virus disease,2
+unknown,disease united,2
+unknown,united republic,2
+unknown,republic tanzania,2
+unknown,northern,2
+unknown,african,2
+unknown,african region,2
+unknown,cluster,1
+unknown,community,1
+unknown,cluster community,1
+unknown,china,1
